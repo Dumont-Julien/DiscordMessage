@@ -1,0 +1,21 @@
+{
+    "name": "libs/discord-message",
+    "description": "Send discord webhook",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^10.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "discordMessage\\": "src/",
+            "test\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dumont-Julien",
+            "email": "dumontj357@gmail.com"
+        }
+    ],
+    "require": {}
+}
