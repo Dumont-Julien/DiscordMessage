@@ -17,5 +17,7 @@
             "email": "dumontj357@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ext-curl": "*"
+    }
 }
